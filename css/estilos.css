@@ -123,8 +123,8 @@ section {
 
 /* Botón del Carrito resaltado */
 .boton-carrito {
-    background-color: #43b2f5; /* Rojo*/
-    padding: 8px 18px;
+    background-color: #fb542b; /* Rojo*/
+    padding: 10px 20px;
     border-radius: 25px;
     border: 2px solid #ffffff;
 }
