@@ -2,7 +2,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: #8A2E1C ; /* tono marrón rojizo oscuro y vívido */
-    color: #0A0403; /* Texto gris oscuro para mejor lectura */
+    color: #000000; /* Texto negro para mejor lectura */
     line-height: 1.6;
     margin: 0;
     padding: 20px;
